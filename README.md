@@ -41,14 +41,20 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 **Summary**:
 
-**Week Focus**: Visualizing distributions using histograms and Kernel Density Estimation (KDE).
+**Week Focus**: Visualizing distributions I using histograms and Kernel Density Estimation (KDE).
 - Plot Types:
   - **Histograms**: Represent frequency of data within bins; adjust bin width for better clarity.
   - **Kernel Density Estimation (KDE)**: Smooths data to show continuous distribution trends.
   - **Stacked Histograms**: Display how parts of a dataset contribute to the whole, stacked across different categories.
   - **Combined KDE**: Overlay multiple KDE plots to compare distributions for different categories.
   - **Combined Histograms**: Overlay multiple histograms with transparency to compare distributions across categories (e.g., male vs. female).
+ 
 
+### [Week 6: Visualizing distribution II and Ethics in data visualization](week6.md)
+
+
+
+### [Week 7: Penguins Dataset](Week6.md)
 -----------
 
 ### [Q&A](Q&A.md)
