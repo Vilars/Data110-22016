@@ -64,10 +64,16 @@ Welcome to the Data Visualization class. This pages outlines the structure and c
 
 
 ### [Week 11: Visualizion Map](Week11.md)
+
+
+### [Week 12: Visualizaon Map, Treemap](Week12.md)
+
+
+### [Week 15: Final Project](Final_Project.md)
+
 ### [Q&A](Q&A.md)
 
 For more detailed answers to common questions about the course, check out the full Q&A section. This resource covers everything from course materials and tools to tips for succeeding in Data Science.
-
 
 
 
